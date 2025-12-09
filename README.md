@@ -131,17 +131,6 @@
 
 ---
 
-<!-- Trophy Showcase -->
-## 🏆 Achievement Vault // Trophy Collection
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vinoth322006&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
-
-</div>
-
----
-
 <!-- Technology Arsenal with Creative Layout -->
 ## 🛠️ Arsenal // Technology Stack
 
