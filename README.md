@@ -1,57 +1,124 @@
-## Hi there 👋 This is Vinoth P.
+<!-- 💫 Animated Title -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=32&duration=2800&pause=800&color=7DF9FF&center=true&vCenter=true&width=700&lines=Hi+There+👋+I'm+Vinoth+P.;AI+Engineer+%7C+Agentic+Systems+Developer;Deep+Learning+%7C+Cloud+%7C+MCP+Builder" />
+</h1>
 
-I’m an emerging AI engineer passionate about building intelligent systems that think, adapt, and solve real-world problems. I work across Agentic AI, MCP servers, cloud architectures, Deep Learning, and full-stack applications, combining research-driven thinking with practical engineering. I enjoy experimenting with complex systems, automating workflows, and creating technologies that push the boundary of what software can do. Driven by curiosity and innovation, I’m constantly exploring new ideas—from AI agents to AR/VR and blockchain—to build the next generation of smart, scalable, and impactful solutions.
+<!-- ✨ Short Description -->
+<p align="center">
+  <b>Building the next generation of Agentic AI, scalable cloud systems, and intelligent applications.</b><br/>
+  Passionate about experimental AI, automation, and deep-tech innovation.
+</p>
 
-##💫 About Me:<br/>
-  🧑‍💻 I’m currently working on<br/>
-  MCP Servers & AI Agents<br/>
-  Cloud-hosted intelligent systems<br/>
-  Agentic AI architectures<br/>
-  Deep Learning models<br/>
-  Scalable software applications<br/>
+---
 
-##🤝 I’m looking to collaborate on<br/>
-  AI research & experimental intelligence<br/>
-  Full-stack and cloud-native applications<br/>
-  Agentic frameworks, automation systems, and next-gen AI tools<br/>
+<!-- 🌟 Gradient About Section -->
+<h2 align="center">💫 <b>About Me</b></h2>
 
-##🧠 I’m looking for help with<br/>
-  Building strong collaboration teams<br/>
-  Creating breakthrough innovations in AI and emerging technologies<br/>
+<p align="center">
+I’m an emerging AI engineer passionate about building intelligent systems that think, adapt, and solve real-world problems.  
+I work across <b>Agentic AI, MCP servers, cloud architectures, Deep Learning, and full-stack engineering</b>, blending research with practical development.  
+I love experimenting with complex systems, automating workflows, and pushing the boundaries of what software can achieve.
+</p>
 
-##🌱 I’m currently learning<br/>
-  DSA (Trees, Graphs, Advanced Problem Solving)<br/>
-  Artificial Intelligence & Deep Learning<br/>
-  AR/VR development<br/>
-  Blockchain fundamentals<br/>
+---
 
-##💬 Ask me about<br/>
-  Agentic AI<br/>
-  Deep Learning<br/>
-  Cloud technologies<br/>
-  IoT systems<br/>
-  Software application development<br/>
-  Experimental AI (Ex-AI)<br/>
+<!-- ⚡ Highlight Boxes -->
+<div align="center">
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/vinocosmo.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/82F8WjDW) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vino_cosmo_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinoth-p-a41770290) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/vino_cosmo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vinocosmo) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@vinocosmo@mastodon.social) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Vinoth322006@gmail.com) 
+### 🧑‍💻 <b>I’m Currently Working On</b>
+🔥 MCP Servers & AI Agents  
+☁️ Cloud-hosted intelligent systems  
+⚙️ Agentic AI architectures  
+🧠 Deep Learning models  
+🚀 Scalable software applications  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vinoth322006&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vinoth322006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinoth322006&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+### 🤝 <b>I’m Looking to Collaborate On</b>
+🧪 AI research & experimental intelligence  
+🌐 Full-stack & cloud-native applications  
+🤖 Agentic frameworks & automation systems  
+
+---
+
+### 🧠 <b>I’m Looking for Help With</b>
+✨ Building strong collaboration teams  
+🚀 Creating breakthrough innovations in AI  
+
+---
+
+### 🌱 <b>I’m Currently Learning</b>
+⚡ DSA (Trees, Graphs, Advanced Problems)  
+🧠 AI & Deep Learning  
+🎮 AR/VR development  
+🔗 Blockchain fundamentals  
+
+---
+
+### 💬 <b>Ask Me About</b>
+🤖 Agentic AI  
+🧠 Deep Learning  
+☁️ Cloud Technologies  
+🔌 IoT Systems  
+🛠️ Software Engineering  
+🔬 Experimental AI (Ex-AI)  
+
+---
+
+### ⚡ <b>Fun Fact</b>
+<b>“I love breaking complex systems just to understand them better — then rebuilding them smarter, faster, and more intelligent than before.”</b>
+
+</div>
+
+---
+
+<!-- 🌐 Social Icons -->
+<h2 align="center">🌐 Connect With Me</h2>
+<p align="center">
+<a href="https://bsky.app/profile/vinocosmo.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+<a href="https://discord.gg/82F8WjDW"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://instagram.com/_vino_cosmo_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/vinoth-p-a41770290"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://reddit.com/user/vino_cosmo"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href="https://x.com/vinocosmo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:Vinoth322006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+# 💻 Tech Stack
+<p align="center">
+(Your tech badges stay here — they fit perfectly below the UI)
+</p>
+
+---
+
+# 📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vinoth322006&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160px"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=vinoth322006&theme=tokyonight&hide_border=true" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinoth322006&theme=tokyonight&hide_border=true&layout=compact" height="160px"/>
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vinoth322006&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vinoth322006&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+---
 
+## ✍️ Random Dev Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" />
+</p>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vinocosmo) 
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💰 Support Me
+<p align="center">
+<a href="https://buymeacoffee.com/vinocosmo"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
+</p>
+
+<!-- ✨ Created by Vinoth P | Powered by Agentic AI -->
