@@ -3,15 +3,15 @@
 I’m an emerging AI engineer passionate about building intelligent systems that think, adapt, and solve real-world problems. I work across Agentic AI, MCP servers, cloud architectures, Deep Learning, and full-stack applications, combining research-driven thinking with practical engineering. I enjoy experimenting with complex systems, automating workflows, and creating technologies that push the boundary of what software can do. Driven by curiosity and innovation, I’m constantly exploring new ideas—from AI agents to AR/VR and blockchain—to build the next generation of smart, scalable, and impactful solutions.
 
 # 💫 About Me:
-🧑‍💻 I’m currently working on
-MCP Servers & AI Agents
-Cloud-hosted intelligent systems
-Agentic AI architectures
-Deep Learning models
-Scalable software applications
-
-🤝 I’m looking to collaborate on
-AI research & experimental intelligence
+#🧑‍💻 I’m currently working on
+#MCP Servers & AI Agents
+#Cloud-hosted intelligent systems
+#Agentic AI architectures
+#Deep Learning models
+#Scalable software applications
+#
+#🤝 I’m looking to collaborate on
+#AI research & experimental intelligence
 Full-stack and cloud-native applications
 Agentic frameworks, automation systems, and next-gen AI tools
 
