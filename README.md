@@ -2,7 +2,7 @@
 
 I’m an emerging AI engineer passionate about building intelligent systems that think, adapt, and solve real-world problems. I work across Agentic AI, MCP servers, cloud architectures, Deep Learning, and full-stack applications, combining research-driven thinking with practical engineering. I enjoy experimenting with complex systems, automating workflows, and creating technologies that push the boundary of what software can do. Driven by curiosity and innovation, I’m constantly exploring new ideas—from AI agents to AR/VR and blockchain—to build the next generation of smart, scalable, and impactful solutions.
 
-💫 About Me:<br/>
+##💫 About Me:<br/>
   🧑‍💻 I’m currently working on<br/>
   MCP Servers & AI Agents<br/>
   Cloud-hosted intelligent systems<br/>
@@ -10,22 +10,22 @@ I’m an emerging AI engineer passionate about building intelligent systems that
   Deep Learning models<br/>
   Scalable software applications<br/>
 
-🤝 I’m looking to collaborate on<br/>
+##🤝 I’m looking to collaborate on<br/>
   AI research & experimental intelligence<br/>
   Full-stack and cloud-native applications<br/>
   Agentic frameworks, automation systems, and next-gen AI tools<br/>
 
-🧠 I’m looking for help with<br/>
+##🧠 I’m looking for help with<br/>
   Building strong collaboration teams<br/>
   Creating breakthrough innovations in AI and emerging technologies<br/>
 
-🌱 I’m currently learning<br/>
+##🌱 I’m currently learning<br/>
   DSA (Trees, Graphs, Advanced Problem Solving)<br/>
   Artificial Intelligence & Deep Learning<br/>
   AR/VR development<br/>
   Blockchain fundamentals<br/>
 
-💬 Ask me about<br/>
+##💬 Ask me about<br/>
   Agentic AI<br/>
   Deep Learning<br/>
   Cloud technologies<br/>
@@ -49,11 +49,6 @@ I’m an emerging AI engineer passionate about building intelligent systems that
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vinoth322006&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=vinoth322006&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vinocosmo) 
