@@ -2,37 +2,37 @@
 
 I’m an emerging AI engineer passionate about building intelligent systems that think, adapt, and solve real-world problems. I work across Agentic AI, MCP servers, cloud architectures, Deep Learning, and full-stack applications, combining research-driven thinking with practical engineering. I enjoy experimenting with complex systems, automating workflows, and creating technologies that push the boundary of what software can do. Driven by curiosity and innovation, I’m constantly exploring new ideas—from AI agents to AR/VR and blockchain—to build the next generation of smart, scalable, and impactful solutions.
 
-# 💫 About Me:
-🧑‍💻 I’m currently working on<br/>
-MCP Servers & AI Agents<br/>
-Cloud-hosted intelligent systems<br/>
-Agentic AI architectures<br/>
-Deep Learning models<br/>
-Scalable software applications<br/>
+💫 About Me:
+  🧑‍💻 I’m currently working on<br/>
+  MCP Servers & AI Agents<br/>
+  Cloud-hosted intelligent systems<br/>
+  Agentic AI architectures<br/>
+  Deep Learning models<br/>
+  Scalable software applications<br/>
 
-🤝 I’m looking to collaborate on
-AI research & experimental intelligence
-Full-stack and cloud-native applications
-Agentic frameworks, automation systems, and next-gen AI tools
+🤝 I’m looking to collaborate on<br/>
+  AI research & experimental intelligence<br/>
+  Full-stack and cloud-native applications<br/>
+  Agentic frameworks, automation systems, and next-gen AI tools<br/>
 
-🧠 I’m looking for help with
-Building strong collaboration teams
-Creating breakthrough innovations in AI and emerging technologies
+🧠 I’m looking for help with<br/>
+  Building strong collaboration teams<br/>
+  Creating breakthrough innovations in AI and emerging technologies<br/>
 
-🌱 I’m currently learning
-DSA (Trees, Graphs, Advanced Problem Solving)
-Artificial Intelligence & Deep Learning
-AR/VR development
-Blockchain fundamentals
+🌱 I’m currently learning<br/>
+  DSA (Trees, Graphs, Advanced Problem Solving)<br/>
+  Artificial Intelligence & Deep Learning<br/>
+  AR/VR development<br/>
+  Blockchain fundamentals<br/>
 
-💬 Ask me about
-Agentic AI
-Deep Learning
-Cloud technologies
-IoT systems
-Software application development
+💬 Ask me about<br/>
+  Agentic AI<br/>
+  Deep Learning<br/>
+  Cloud technologies<br/>
+  IoT systems<br/>
+  Software application development<br/>
+  Experimental AI (Ex-AI)<br/>
 
-Experimental AI (Ex-AI)
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/vinocosmo.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/82F8WjDW) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vino_cosmo_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinoth-p-a41770290) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/vino_cosmo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vinocosmo) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@vinocosmo@mastodon.social) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Vinoth322006@gmail.com) 
 
