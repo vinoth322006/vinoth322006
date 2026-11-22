@@ -26,30 +26,19 @@
 
 ## 👋 About me
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 I'm a final-year **B.E. Artificial Intelligence and Machine Learning** student at **Sri Krishna College of Technology**, Coimbatore.
 
 I build **AI agents and the systems around them**: multi-agent workflows in LangGraph, MCP servers that give AI assistants new tools, and RAG pipelines over real data. With a team of 8, I built a search engine that answers questions over **36 million** medical papers on a single cloud server.
 
 I'm looking for an **AI/ML Engineer** or **AI Agent Developer** role where I can ship working systems from day one.
 
-</td>
-<td width="42%" valign="top">
-
-| | |
-|---|---|
-| 🏅 | **GitHub Certified:** Agentic AI Developer |
-| 📜 | **17** certifications |
-| 🛡️ | **1** Government of India registered design |
-| 💼 | Data Scientist Intern, Postulate Info Tech |
-| 🤖 | **5** AI agents built in one day |
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8F%85_GitHub_Certified-Agentic_AI_Developer-181717?style=flat-square" alt="GitHub Certified: Agentic AI Developer" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%9C_Certifications-17-1A4D8F?style=flat-square" alt="17 certifications" />
+  <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_Registered_design-Govt._of_India-1A4D8F?style=flat-square" alt="Government of India registered design" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC_Intern-Data_Scientist-1A4D8F?style=flat-square" alt="Data Scientist Intern" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96_Agent_Build_Day-5_agents_in_1_day-2EA043?style=flat-square" alt="5 AI agents built in one day" />
+</p>
 
 ---
 
